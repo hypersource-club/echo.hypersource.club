@@ -15,6 +15,12 @@ $ npm install -g echo.hypersource.club
 $ echo.hypersource.club --port 3000 --host '127.0.0.1'
 ```
 
+or with `npx`
+
+```sh
+$ npx echo.hypersource.club --port 3000 --host '127.0.0.1'
+```
+
 Echo a message with
 [hypersource-client](https://github.com/jwerle/hypersource-client).
 
